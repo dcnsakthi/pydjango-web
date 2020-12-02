@@ -1,0 +1,1 @@
+<img src="C:\Workspace\Github\pydjango-web\screenshot-home.JPG"/> 
