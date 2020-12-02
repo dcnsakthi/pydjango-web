@@ -4,7 +4,7 @@
 ### User Credential
 <b>user/P@ssw0rd#</b><br>
 
-### Here is the screenshot.
+### Screenshot
 <img src="screenshot-home.JPG"/> 
 
 Happy Learning!! :)
